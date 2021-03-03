@@ -1,4 +1,4 @@
-# sup
+# supermarket
 
 ## Project setup
 ```
